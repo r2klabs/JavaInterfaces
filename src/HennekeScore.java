@@ -1,0 +1,14 @@
+
+public enum HennekeScore {
+	
+	POOR, 
+	VERYTHIN, 
+	THIN, 
+	MODERATELYTHIN, 
+	MODERATE, 
+	MODERATELYFLESHY,
+	FLESHY, 
+	FAT, 
+	EXTREMELYFAT
+	
+}
